@@ -98,7 +98,7 @@ pip install -r requirements.txt
 
 - Create .env file
 - Add Moralis API key
-- Set backend URL
+- Set Backend URL
 - Configure Ethereum RPC endpoint
 
 5. Run the app
